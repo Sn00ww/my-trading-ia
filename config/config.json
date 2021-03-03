@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "database": "trading",
+        "username": "root",
+        "password": "",
+        "port": "3306"
+    }
+}
